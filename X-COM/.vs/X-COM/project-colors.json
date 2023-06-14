@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "01daf259-48a1-4029-ac1e-89451225573e": {
+      "ProjectGuid": "01daf259-48a1-4029-ac1e-89451225573e",
+      "DisplayName": "X-COM",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

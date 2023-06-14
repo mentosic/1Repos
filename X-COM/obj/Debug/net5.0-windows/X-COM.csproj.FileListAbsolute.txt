@@ -1,0 +1,78 @@
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\bin\Debug\net5.0-windows\X-COM.exe
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\bin\Debug\net5.0-windows\X-COM.deps.json
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\bin\Debug\net5.0-windows\X-COM.runtimeconfig.json
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\bin\Debug\net5.0-windows\X-COM.runtimeconfig.dev.json
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\bin\Debug\net5.0-windows\X-COM.dll
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\bin\Debug\net5.0-windows\ref\X-COM.dll
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\bin\Debug\net5.0-windows\X-COM.pdb
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\obj\Debug\net5.0-windows\X_COM.index.resources
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\obj\Debug\net5.0-windows\X-COM.csproj.GenerateResource.cache
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\obj\Debug\net5.0-windows\X-COM.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\obj\Debug\net5.0-windows\X-COM.AssemblyInfoInputs.cache
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\obj\Debug\net5.0-windows\X-COM.AssemblyInfo.cs
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\obj\Debug\net5.0-windows\X-COM.csproj.CoreCompileInputs.cache
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\obj\Debug\net5.0-windows\X-COM.dll
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\obj\Debug\net5.0-windows\ref\X-COM.dll
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\obj\Debug\net5.0-windows\X-COM.pdb
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\obj\Debug\net5.0-windows\X-COM.genruntimeconfig.cache
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\bin\Debug\net5.0-windows\X-COM.dll.config
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\bin\Debug\net5.0-windows\EntityFramework.dll
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\obj\Debug\net5.0-windows\X_COM.Properties.Resources.resources
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\obj\Debug\net5.0-windows\X-COM.csproj.CopyComplete
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\obj\Debug\net5.0-windows\X_COM.MessageProduct.resources
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\obj\Debug\net5.0-windows\X_COM.Buy.resources
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\obj\Debug\net5.0-windows\X_COM.ProfileAndBuyer.resources
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\obj\Debug\net5.0-windows\X_COM.UserInput.resources
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\obj\Debug\net5.0-windows\X_COM.AdminOpen.resources
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\obj\Debug\net5.0-windows\X_COM.Registr.resources
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\obj\Debug\net5.0-windows\X-COM.csproj.AssemblyReference.cache
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\obj\Debug\net5.0-windows\X_COM.WriteMess.resources
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\obj\Debug\net5.0-windows\X_COM.AdminMenu.resources
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\obj\Debug\net5.0-windows\X_COM.EditData.resources
+D:\учеба\Курсачи\Сергеев магазин электроники\X-COM\obj\Debug\net5.0-windows\X_COM.LookInfoData.resources
+C:\Users\Admin\Desktop\X-COM\bin\Debug\net5.0-windows\X-COM.exe
+C:\Users\Admin\Desktop\X-COM\bin\Debug\net5.0-windows\X-COM.dll.config
+C:\Users\Admin\Desktop\X-COM\bin\Debug\net5.0-windows\X-COM.deps.json
+C:\Users\Admin\Desktop\X-COM\bin\Debug\net5.0-windows\X-COM.runtimeconfig.json
+C:\Users\Admin\Desktop\X-COM\bin\Debug\net5.0-windows\X-COM.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\X-COM\bin\Debug\net5.0-windows\X-COM.dll
+C:\Users\Admin\Desktop\X-COM\bin\Debug\net5.0-windows\ref\X-COM.dll
+C:\Users\Admin\Desktop\X-COM\bin\Debug\net5.0-windows\X-COM.pdb
+C:\Users\Admin\Desktop\X-COM\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\X-COM\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\Admin\Desktop\X-COM\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\X-COM\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\X-COM\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\X-COM\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\X-COM\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\X-COM\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\X-COM\obj\Debug\net5.0-windows\X-COM.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\X-COM\obj\Debug\net5.0-windows\X_COM.AdminMenu.resources
+C:\Users\Admin\Desktop\X-COM\obj\Debug\net5.0-windows\X_COM.AdminOpen.resources
+C:\Users\Admin\Desktop\X-COM\obj\Debug\net5.0-windows\X_COM.Buy.resources
+C:\Users\Admin\Desktop\X-COM\obj\Debug\net5.0-windows\X_COM.EditData.resources
+C:\Users\Admin\Desktop\X-COM\obj\Debug\net5.0-windows\X_COM.index.resources
+C:\Users\Admin\Desktop\X-COM\obj\Debug\net5.0-windows\X_COM.LookInfoData.resources
+C:\Users\Admin\Desktop\X-COM\obj\Debug\net5.0-windows\X_COM.MessageProduct.resources
+C:\Users\Admin\Desktop\X-COM\obj\Debug\net5.0-windows\X_COM.ProfileAndBuyer.resources
+C:\Users\Admin\Desktop\X-COM\obj\Debug\net5.0-windows\X_COM.Properties.Resources.resources
+C:\Users\Admin\Desktop\X-COM\obj\Debug\net5.0-windows\X_COM.Registr.resources
+C:\Users\Admin\Desktop\X-COM\obj\Debug\net5.0-windows\X_COM.UserInput.resources
+C:\Users\Admin\Desktop\X-COM\obj\Debug\net5.0-windows\X_COM.WriteMess.resources
+C:\Users\Admin\Desktop\X-COM\obj\Debug\net5.0-windows\X-COM.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\X-COM\obj\Debug\net5.0-windows\X-COM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\X-COM\obj\Debug\net5.0-windows\X-COM.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\X-COM\obj\Debug\net5.0-windows\X-COM.AssemblyInfo.cs
+C:\Users\Admin\Desktop\X-COM\obj\Debug\net5.0-windows\X-COM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\X-COM\obj\Debug\net5.0-windows\X-COM.csproj.CopyComplete
+C:\Users\Admin\Desktop\X-COM\obj\Debug\net5.0-windows\X-COM.dll
+C:\Users\Admin\Desktop\X-COM\obj\Debug\net5.0-windows\ref\X-COM.dll
+C:\Users\Admin\Desktop\X-COM\obj\Debug\net5.0-windows\X-COM.pdb
+C:\Users\Admin\Desktop\X-COM\obj\Debug\net5.0-windows\X-COM.genruntimeconfig.cache
